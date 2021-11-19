@@ -1,6 +1,8 @@
 # Bank-Auth
 - To run the application:
 
+- Set up your virtual environment
+- run 'pip install -r requirements.txt'
 - Rename the sample.env file to .env
 - Run 'python manage.py migrate'
 
